@@ -1,0 +1,98 @@
+[
+  {
+    "id": "100012345001",
+    "name": "金士顿(Kingston) FURY 16GB(8G×2) DDR4 3200 台式机内存",
+    "category": "DDR4内存",
+    "brand": "金士顿",
+    "capacity": "16GB",
+    "type": "DDR4"
+  },
+  {
+    "id": "100012345002",
+    "name": "金士顿(Kingston) FURY 32GB(16G×2) DDR4 3200 台式机内存",
+    "category": "DDR4内存",
+    "brand": "金士顿",
+    "capacity": "32GB",
+    "type": "DDR4"
+  },
+  {
+    "id": "100012345003",
+    "name": "芝奇(G.Skill) 幻光戟 16GB(8G×2) DDR4 3600 台式机内存",
+    "category": "DDR4内存",
+    "brand": "芝奇",
+    "capacity": "16GB",
+    "type": "DDR4"
+  },
+  {
+    "id": "100012345004",
+    "name": "芝奇(G.Skill) 幻光戟 32GB(16G×2) DDR4 3600 台式机内存",
+    "category": "DDR4内存",
+    "brand": "芝奇",
+    "capacity": "32GB",
+    "type": "DDR4"
+  },
+  {
+    "id": "100012345005",
+    "name": "海盗船(Corsair) 复仇者 16GB(8G×2) DDR4 3600 台式机内存",
+    "category": "DDR4内存",
+    "brand": "海盗船",
+    "capacity": "16GB",
+    "type": "DDR4"
+  },
+  {
+    "id": "100012345006",
+    "name": "海盗船(Corsair) 复仇者 32GB(16G×2) DDR4 3600 台式机内存",
+    "category": "DDR4内存",
+    "brand": "海盗船",
+    "capacity": "32GB",
+    "type": "DDR4"
+  },
+  {
+    "id": "100012345007",
+    "name": "英睿达(Crucial) 16GB DDR4 2666 台式机内存",
+    "category": "DDR4内存",
+    "brand": "英睿达",
+    "capacity": "16GB",
+    "type": "DDR4"
+  },
+  {
+    "id": "100012345008",
+    "name": "英睿达(Crucial) 32GB DDR4 2666 台式机内存",
+    "category": "DDR4内存",
+    "brand": "英睿达",
+    "capacity": "32GB",
+    "type": "DDR4"
+  },
+  {
+    "id": "100012345009",
+    "name": "金百达(KINGBANK) 银爵 16GB(8G×2) DDR5 6000 台式机内存",
+    "category": "DDR5内存",
+    "brand": "金百达",
+    "capacity": "16GB",
+    "type": "DDR5"
+  },
+  {
+    "id": "100012345010",
+    "name": "金百达(KINGBANK) 银爵 32GB(16G×2) DDR5 6000 台式机内存",
+    "category": "DDR5内存",
+    "brand": "金百达",
+    "capacity": "32GB",
+    "type": "DDR5"
+  },
+  {
+    "id": "100012345011",
+    "name": "芝奇(G.Skill) 焰锋戟 32GB(16G×2) DDR5 6000 台式机内存",
+    "category": "DDR5内存",
+    "brand": "芝奇",
+    "capacity": "32GB",
+    "type": "DDR5"
+  },
+  {
+    "id": "100012345012",
+    "name": "芝奇(G.Skill) 焰锋戟 64GB(32G×2) DDR5 6000 台式机内存",
+    "category": "DDR5内存",
+    "brand": "芝奇",
+    "capacity": "64GB",
+    "type": "DDR5"
+  }
+]
