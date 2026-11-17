@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "timestamp": "2026-11-17T10:16:32.362196",
+  "timestamp": "2026-11-17T20:30:27.405680",
   "source": "simulated",
   "products": [
     {
@@ -11,9 +11,9 @@
       "capacity": "16GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345001.html",
-      "price": 312.76,
+      "price": null,
       "original_price": null,
-      "in_stock": true,
+      "in_stock": false,
       "coupon": null
     },
     {
@@ -24,10 +24,10 @@
       "capacity": "32GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345002.html",
-      "price": 574.74,
-      "original_price": 660.95,
+      "price": 604.12,
+      "original_price": 694.74,
       "in_stock": true,
-      "coupon": 24.83
+      "coupon": null
     },
     {
       "id": "100012345003",
@@ -37,10 +37,10 @@
       "capacity": "16GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345003.html",
-      "price": 415.11,
-      "original_price": 477.38,
+      "price": 405.56,
+      "original_price": null,
       "in_stock": true,
-      "coupon": null
+      "coupon": 24.88
     },
     {
       "id": "100012345004",
@@ -50,10 +50,10 @@
       "capacity": "32GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345004.html",
-      "price": 831.6,
-      "original_price": 956.34,
-      "in_stock": true,
-      "coupon": 24.11
+      "price": null,
+      "original_price": null,
+      "in_stock": false,
+      "coupon": null
     },
     {
       "id": "100012345005",
@@ -63,9 +63,9 @@
       "capacity": "16GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345005.html",
-      "price": null,
+      "price": 427.51,
       "original_price": null,
-      "in_stock": false,
+      "in_stock": true,
       "coupon": null
     },
     {
@@ -76,10 +76,10 @@
       "capacity": "32GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345006.html",
-      "price": 735.43,
-      "original_price": 845.74,
+      "price": 695.46,
+      "original_price": 799.78,
       "in_stock": true,
-      "coupon": 15.86
+      "coupon": 17.63
     },
     {
       "id": "100012345007",
@@ -89,10 +89,10 @@
       "capacity": "16GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345007.html",
-      "price": 283.23,
+      "price": 266.69,
       "original_price": null,
       "in_stock": true,
-      "coupon": null
+      "coupon": 27.02
     },
     {
       "id": "100012345008",
@@ -102,7 +102,7 @@
       "capacity": "32GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345008.html",
-      "price": 537.18,
+      "price": 507.38,
       "original_price": null,
       "in_stock": true,
       "coupon": null
@@ -115,10 +115,10 @@
       "capacity": "16GB",
       "type": "DDR5",
       "url": "https://item.jd.com/100012345009.html",
-      "price": 414.34,
+      "price": null,
       "original_price": null,
-      "in_stock": true,
-      "coupon": 16.2
+      "in_stock": false,
+      "coupon": null
     },
     {
       "id": "100012345010",
@@ -128,8 +128,8 @@
       "capacity": "32GB",
       "type": "DDR5",
       "url": "https://item.jd.com/100012345010.html",
-      "price": 724.85,
-      "original_price": 833.58,
+      "price": 725.47,
+      "original_price": 834.29,
       "in_stock": true,
       "coupon": null
     },
@@ -141,8 +141,8 @@
       "capacity": "32GB",
       "type": "DDR5",
       "url": "https://item.jd.com/100012345011.html",
-      "price": 1038.53,
-      "original_price": 1194.31,
+      "price": 946.02,
+      "original_price": 1087.92,
       "in_stock": true,
       "coupon": null
     },
@@ -154,8 +154,8 @@
       "capacity": "64GB",
       "type": "DDR5",
       "url": "https://item.jd.com/100012345012.html",
-      "price": 1939.77,
-      "original_price": 2230.74,
+      "price": 1985.12,
+      "original_price": null,
       "in_stock": true,
       "coupon": null
     }
