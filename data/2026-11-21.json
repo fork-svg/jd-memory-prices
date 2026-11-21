@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "timestamp": "2026-11-21T09:16:18.056105",
+  "timestamp": "2026-11-21T18:45:17.258394",
   "source": "simulated",
   "products": [
     {
@@ -11,10 +11,10 @@
       "capacity": "16GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345001.html",
-      "price": 351.06,
+      "price": null,
       "original_price": null,
-      "in_stock": true,
-      "coupon": 19.71
+      "in_stock": false,
+      "coupon": null
     },
     {
       "id": "100012345002",
@@ -24,10 +24,10 @@
       "capacity": "32GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345002.html",
-      "price": 645.39,
+      "price": 589.34,
       "original_price": null,
       "in_stock": true,
-      "coupon": 23.84
+      "coupon": null
     },
     {
       "id": "100012345003",
@@ -37,9 +37,9 @@
       "capacity": "16GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345003.html",
-      "price": 476.82,
+      "price": null,
       "original_price": null,
-      "in_stock": true,
+      "in_stock": false,
       "coupon": null
     },
     {
@@ -50,10 +50,10 @@
       "capacity": "32GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345004.html",
-      "price": 712.08,
-      "original_price": 818.89,
+      "price": 801.11,
+      "original_price": 921.28,
       "in_stock": true,
-      "coupon": null
+      "coupon": 14.19
     },
     {
       "id": "100012345005",
@@ -63,10 +63,10 @@
       "capacity": "16GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345005.html",
-      "price": 372.18,
+      "price": 369.18,
       "original_price": null,
       "in_stock": true,
-      "coupon": 21.33
+      "coupon": null
     },
     {
       "id": "100012345006",
@@ -76,10 +76,10 @@
       "capacity": "32GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345006.html",
-      "price": 636.1,
+      "price": 659.27,
       "original_price": null,
       "in_stock": true,
-      "coupon": null
+      "coupon": 28.79
     },
     {
       "id": "100012345007",
@@ -89,10 +89,10 @@
       "capacity": "16GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345007.html",
-      "price": 291.59,
-      "original_price": null,
+      "price": 268.78,
+      "original_price": 309.1,
       "in_stock": true,
-      "coupon": 26.64
+      "coupon": null
     },
     {
       "id": "100012345008",
@@ -102,10 +102,10 @@
       "capacity": "32GB",
       "type": "DDR4",
       "url": "https://item.jd.com/100012345008.html",
-      "price": 453.67,
-      "original_price": null,
+      "price": 489.33,
+      "original_price": 562.73,
       "in_stock": true,
-      "coupon": 22.7
+      "coupon": null
     },
     {
       "id": "100012345009",
@@ -115,10 +115,10 @@
       "capacity": "16GB",
       "type": "DDR5",
       "url": "https://item.jd.com/100012345009.html",
-      "price": 382.71,
-      "original_price": null,
+      "price": 366.63,
+      "original_price": 421.62,
       "in_stock": true,
-      "coupon": 11.27
+      "coupon": 10.47
     },
     {
       "id": "100012345010",
@@ -128,10 +128,10 @@
       "capacity": "32GB",
       "type": "DDR5",
       "url": "https://item.jd.com/100012345010.html",
-      "price": 719.87,
-      "original_price": 827.85,
+      "price": 692.91,
+      "original_price": null,
       "in_stock": true,
-      "coupon": 27.87
+      "coupon": null
     },
     {
       "id": "100012345011",
@@ -141,9 +141,9 @@
       "capacity": "32GB",
       "type": "DDR5",
       "url": "https://item.jd.com/100012345011.html",
-      "price": null,
+      "price": 997.32,
       "original_price": null,
-      "in_stock": false,
+      "in_stock": true,
       "coupon": null
     },
     {
@@ -154,10 +154,10 @@
       "capacity": "64GB",
       "type": "DDR5",
       "url": "https://item.jd.com/100012345012.html",
-      "price": 1968.36,
-      "original_price": 2263.61,
+      "price": 1922.12,
+      "original_price": null,
       "in_stock": true,
-      "coupon": null
+      "coupon": 15.59
     }
   ]
 }
